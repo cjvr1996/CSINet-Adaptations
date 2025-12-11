@@ -15,7 +15,8 @@ These notebooks will automatically:
 - Produce the corresponding **heatmaps**
 - Using the ***already trained models***
 
-To train the model and/or generate training and validation curves, use the training notebooks (see below)
+To train the model and/or generate training and validation curves, use the training notebooks (see below).
+Also, ```Report Analysis.pptx``` includes the presentation with the summary of the findings of this work.
 
 ---
 
